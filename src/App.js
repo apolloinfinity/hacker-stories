@@ -50,8 +50,8 @@ const Search = (props) => {
 			<input
 				id='search'
 				type='text'
-				onChange={props.search}
-				value={props.onSearch}
+				value={props.search}
+				onChange={props.onSearch}
 			/>
 		</div>
 	);
